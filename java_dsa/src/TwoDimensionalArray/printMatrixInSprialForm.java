@@ -37,7 +37,7 @@ public class printMatrixInSprialForm {
             maxr--;
             //top to bottom
             if(minr>maxr || minc>maxc)break;
-            
+
             for(int i=maxr;i>=minr;i--){
                 System.out.print(arr[i][minc]+" ");
             }
