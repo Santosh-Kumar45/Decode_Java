@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class printTwoDArray {
     static void main() {
-        int [][]arr={{1,-2,3},{3,200,5},{55,6,3}};
+        int [][]arr={{1,-2,3},{3,200,5},{55,6,3},{1,5,4}};
 
 
         for(int i=0;i<3;i++){
