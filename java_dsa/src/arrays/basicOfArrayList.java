@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import static javax.swing.UIManager.get;
 
 public class basicOfArrayList {
-    static void main() {
+    public static void main() {
         ArrayList<Integer> arr=new ArrayList<>(5);
         arr.add(0,10);
         arr.add(1,20);
